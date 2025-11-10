@@ -109,3 +109,5 @@ This project is set up to run directly in the browser without any build steps or
     Open your web browser and go to **`http://localhost:8000`** (or whatever port the server indicates). The application should load.
 
     or https://synovus-bank-model-plum.vercel.app/ use this link.
+
+    Password is 12345.
