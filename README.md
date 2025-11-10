@@ -107,3 +107,5 @@ This project is set up to run directly in the browser without any build steps or
     Once the server is running, it will typically print a local address in your terminal (e.g., `Serving HTTP on 0.0.0.0 port 8000 (http://0.0.0.0:8000/)`).
 
     Open your web browser and go to **`http://localhost:8000`** (or whatever port the server indicates). The application should load.
+
+    or https://synovus-bank-model-plum.vercel.app/ use this link.
